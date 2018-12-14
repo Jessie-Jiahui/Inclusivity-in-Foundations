@@ -1,0 +1,4818 @@
+{
+    "HTTP://THECOLORAPI.COM/ID?#E6BB98": {
+        "values": {
+            "hex": {
+                "value": "#E6BB98",
+                "clean": "E6BB98"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9019607843137255,
+                    "g": 0.7333333333333333,
+                    "b": 0.596078431372549
+                },
+                "r": 230,
+                "g": 187,
+                "b": 152,
+                "value": "rgb(230, 187, 152)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07478632478632485,
+                    "s": 0.6093749999999999,
+                    "l": 0.7490196078431373
+                },
+                "h": 27,
+                "s": 61,
+                "l": 75,
+                "value": "hsl(27, 61%, 75%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07478632478632485,
+                    "s": 0.33913043478260874,
+                    "v": 0.9019607843137255
+                },
+                "value": "hsv(27, 34%, 90%)",
+                "h": 27,
+                "s": 34,
+                "v": 90
+            },
+            "name": {
+                "value": "Gold",
+                "closest_named_hex": "#E7C697",
+                "exact_match_name": false,
+                "distance": 205
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.1869565217391305,
+                    "y": 0.33913043478260874,
+                    "k": 0.0980392156862745
+                },
+                "value": "cmyk(0, 19, 34, 10)",
+                "c": 0,
+                "m": 19,
+                "y": 34,
+                "k": 10
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7418007843137255,
+                    "Y": 0.759273725490196,
+                    "Z": 0.671393725490196
+                },
+                "value": "XYZ(74, 76, 67)",
+                "X": 74,
+                "Y": 76,
+                "Z": 67
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=E6BB98",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=E6BB98"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=E6BB98"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:24:24.485483",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#EFC99A": {
+        "values": {
+            "hex": {
+                "value": "#EFC99A",
+                "clean": "EFC99A"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9372549019607843,
+                    "g": 0.788235294117647,
+                    "b": 0.6039215686274509
+                },
+                "r": 239,
+                "g": 201,
+                "b": 154,
+                "value": "rgb(239, 201, 154)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.09215686274509804,
+                    "s": 0.7264957264957265,
+                    "l": 0.7705882352941176
+                },
+                "h": 33,
+                "s": 73,
+                "l": 77,
+                "value": "hsl(33, 73%, 77%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.09215686274509804,
+                    "s": 0.3556485355648536,
+                    "v": 0.9372549019607843
+                },
+                "value": "hsv(33, 36%, 94%)",
+                "h": 33,
+                "s": 36,
+                "v": 94
+            },
+            "name": {
+                "value": "Maize",
+                "closest_named_hex": "#EDD19C",
+                "exact_match_name": false,
+                "distance": 266
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.15899581589958162,
+                    "y": 0.3556485355648536,
+                    "k": 0.06274509803921569
+                },
+                "value": "cmyk(0, 16, 36, 6)",
+                "c": 0,
+                "m": 16,
+                "y": 36,
+                "k": 6
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7774047058823529,
+                    "Y": 0.8066094117647058,
+                    "Z": 0.6860741176470587
+                },
+                "value": "XYZ(78, 81, 69)",
+                "X": 78,
+                "Y": 81,
+                "Z": 69
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=EFC99A",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=EFC99A"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=EFC99A"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:00.699771",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#FFD6BA": {
+        "values": {
+            "hex": {
+                "value": "#FFD6BA",
+                "clean": "FFD6BA"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 1,
+                    "g": 0.8392156862745098,
+                    "b": 0.7294117647058823
+                },
+                "r": 255,
+                "g": 214,
+                "b": 186,
+                "value": "rgb(255, 214, 186)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06763285024154586,
+                    "s": 1,
+                    "l": 0.8647058823529412
+                },
+                "h": 24,
+                "s": 100,
+                "l": 86,
+                "value": "hsl(24, 100%, 86%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06763285024154586,
+                    "s": 0.2705882352941177,
+                    "v": 1
+                },
+                "value": "hsv(24, 27%, 100%)",
+                "h": 24,
+                "s": 27,
+                "v": 100
+            },
+            "name": {
+                "value": "Romantic",
+                "closest_named_hex": "#FFD2B7",
+                "exact_match_name": false,
+                "distance": 35
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.16078431372549018,
+                    "y": 0.2705882352941177,
+                    "k": 0
+                },
+                "value": "cmyk(0, 16, 27, 0)",
+                "c": 0,
+                "m": 16,
+                "y": 27,
+                "k": 0
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.8441623529411765,
+                    "Y": 0.8654705882352941,
+                    "Z": 0.8126403921568627
+                },
+                "value": "XYZ(84, 87, 81)",
+                "X": 84,
+                "Y": 87,
+                "Z": 81
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=FFD6BA",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=FFD6BA"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=FFD6BA"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:01.002531",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#FFC8A3": {
+        "values": {
+            "hex": {
+                "value": "#FFC8A3",
+                "clean": "FFC8A3"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 1,
+                    "g": 0.7843137254901961,
+                    "b": 0.6392156862745098
+                },
+                "r": 255,
+                "g": 200,
+                "b": 163,
+                "value": "rgb(255, 200, 163)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06702898550724634,
+                    "s": 1,
+                    "l": 0.8196078431372549
+                },
+                "h": 24,
+                "s": 100,
+                "l": 82,
+                "value": "hsl(24, 100%, 82%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06702898550724634,
+                    "s": 0.36078431372549025,
+                    "v": 1
+                },
+                "value": "hsv(24, 36%, 100%)",
+                "h": 24,
+                "s": 36,
+                "v": 100
+            },
+            "name": {
+                "value": "Flesh",
+                "closest_named_hex": "#FFCBA4",
+                "exact_match_name": false,
+                "distance": 14
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.21568627450980393,
+                    "y": 0.36078431372549025,
+                    "k": 0
+                },
+                "value": "cmyk(0, 22, 36, 0)",
+                "c": 0,
+                "m": 22,
+                "y": 36,
+                "k": 0
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.8082490196078431,
+                    "Y": 0.8196925490196078,
+                    "Z": 0.7203647058823529
+                },
+                "value": "XYZ(81, 82, 72)",
+                "X": 81,
+                "Y": 82,
+                "Z": 72
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=FFC8A3",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=FFC8A3"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=FFC8A3"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:01.266327",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#FFCBA6": {
+        "values": {
+            "hex": {
+                "value": "#FFCBA6",
+                "clean": "FFCBA6"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 1,
+                    "g": 0.796078431372549,
+                    "b": 0.6509803921568628
+                },
+                "r": 255,
+                "g": 203,
+                "b": 166,
+                "value": "rgb(255, 203, 166)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06928838951310856,
+                    "s": 1,
+                    "l": 0.8254901960784313
+                },
+                "h": 25,
+                "s": 100,
+                "l": 83,
+                "value": "hsl(25, 100%, 83%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06928838951310856,
+                    "s": 0.34901960784313724,
+                    "v": 1
+                },
+                "value": "hsv(25, 35%, 100%)",
+                "h": 25,
+                "s": 35,
+                "v": 100
+            },
+            "name": {
+                "value": "Flesh",
+                "closest_named_hex": "#FFCBA4",
+                "exact_match_name": false,
+                "distance": 8
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.20392156862745103,
+                    "y": 0.34901960784313724,
+                    "k": 0
+                },
+                "value": "cmyk(0, 20, 35, 0)",
+                "c": 0,
+                "m": 20,
+                "y": 35,
+                "k": 0
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.8145796078431372,
+                    "Y": 0.8289560784313724,
+                    "Z": 0.732949411764706
+                },
+                "value": "XYZ(81, 83, 73)",
+                "X": 81,
+                "Y": 83,
+                "Z": 73
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=FFCBA6",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=FFCBA6"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=FFCBA6"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:02.175029",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#FAC7A7": {
+        "values": {
+            "hex": {
+                "value": "#FAC7A7",
+                "clean": "FAC7A7"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9803921568627451,
+                    "g": 0.7803921568627451,
+                    "b": 0.6549019607843137
+                },
+                "r": 250,
+                "g": 199,
+                "b": 167,
+                "value": "rgb(250, 199, 167)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06425702811244993,
+                    "s": 0.89247311827957,
+                    "l": 0.8176470588235294
+                },
+                "h": 23,
+                "s": 89,
+                "l": 82,
+                "value": "hsl(23, 89%, 82%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06425702811244993,
+                    "s": 0.33199999999999996,
+                    "v": 0.9803921568627451
+                },
+                "value": "hsv(23, 33%, 98%)",
+                "h": 23,
+                "s": 33,
+                "v": 98
+            },
+            "name": {
+                "value": "Apricot Peach",
+                "closest_named_hex": "#FBCEB1",
+                "exact_match_name": false,
+                "distance": 218
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.20399999999999996,
+                    "y": 0.33199999999999996,
+                    "k": 0.019607843137254943
+                },
+                "value": "cmyk(0, 20, 33, 2)",
+                "c": 0,
+                "m": 20,
+                "y": 33,
+                "k": 2
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.8015917647058823,
+                    "Y": 0.8138517647058824,
+                    "Z": 0.7344286274509804
+                },
+                "value": "XYZ(80, 81, 73)",
+                "X": 80,
+                "Y": 81,
+                "Z": 73
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=FAC7A7",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=FAC7A7"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=FAC7A7"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:02.442354",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#E5B593": {
+        "values": {
+            "hex": {
+                "value": "#E5B593",
+                "clean": "E5B593"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8980392156862745,
+                    "g": 0.7098039215686275,
+                    "b": 0.5764705882352941
+                },
+                "r": 229,
+                "g": 181,
+                "b": 147,
+                "value": "rgb(229, 181, 147)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06910569105691056,
+                    "s": 0.6119402985074627,
+                    "l": 0.7372549019607844
+                },
+                "h": 25,
+                "s": 61,
+                "l": 74,
+                "value": "hsl(25, 61%, 74%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06910569105691056,
+                    "s": 0.3580786026200874,
+                    "v": 0.8980392156862745
+                },
+                "value": "hsv(25, 36%, 90%)",
+                "h": 25,
+                "s": 36,
+                "v": 90
+            },
+            "name": {
+                "value": "Gold",
+                "closest_named_hex": "#E7C697",
+                "exact_match_name": false,
+                "distance": 443
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2096069868995633,
+                    "y": 0.3580786026200874,
+                    "k": 0.10196078431372546
+                },
+                "value": "cmyk(0, 21, 36, 10)",
+                "c": 0,
+                "m": 21,
+                "y": 36,
+                "k": 10
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7282301960784314,
+                    "Y": 0.7401960784313726,
+                    "Z": 0.6498760784313724
+                },
+                "value": "XYZ(73, 74, 65)",
+                "X": 73,
+                "Y": 74,
+                "Z": 65
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=E5B593",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=E5B593"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=E5B593"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:02.792881",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#DEA365": {
+        "values": {
+            "hex": {
+                "value": "#DEA365",
+                "clean": "DEA365"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8705882352941177,
+                    "g": 0.6392156862745098,
+                    "b": 0.396078431372549
+                },
+                "r": 222,
+                "g": 163,
+                "b": 101,
+                "value": "rgb(222, 163, 101)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08539944903581276,
+                    "s": 0.6470588235294118,
+                    "l": 0.6333333333333333
+                },
+                "h": 31,
+                "s": 65,
+                "l": 63,
+                "value": "hsl(31, 65%, 63%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08539944903581276,
+                    "s": 0.545045045045045,
+                    "v": 0.8705882352941177
+                },
+                "value": "hsv(31, 55%, 87%)",
+                "h": 31,
+                "s": 55,
+                "v": 87
+            },
+            "name": {
+                "value": "Di Serria",
+                "closest_named_hex": "#DB995E",
+                "exact_match_name": false,
+                "distance": 242
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2657657657657658,
+                    "y": 0.5450450450450451,
+                    "k": 0.12941176470588234
+                },
+                "value": "cmyk(0, 27, 55, 13)",
+                "c": 0,
+                "m": 27,
+                "y": 55,
+                "k": 13
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6591062745098039,
+                    "Y": 0.6708509803921567,
+                    "Z": 0.46946941176470586
+                },
+                "value": "XYZ(66, 67, 47)",
+                "X": 66,
+                "Y": 67,
+                "Z": 47
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=DEA365",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=DEA365"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=DEA365"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:03.164315",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D4A066": {
+        "values": {
+            "hex": {
+                "value": "#D4A066",
+                "clean": "D4A066"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8313725490196079,
+                    "g": 0.6274509803921569,
+                    "b": 0.4
+                },
+                "r": 212,
+                "g": 160,
+                "b": 102,
+                "value": "rgb(212, 160, 102)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08787878787878789,
+                    "s": 0.5612244897959185,
+                    "l": 0.615686274509804
+                },
+                "h": 32,
+                "s": 56,
+                "l": 62,
+                "value": "hsl(32, 56%, 62%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08787878787878789,
+                    "s": 0.5188679245283019,
+                    "v": 0.8313725490196079
+                },
+                "value": "hsv(32, 52%, 83%)",
+                "h": 32,
+                "s": 52,
+                "v": 83
+            },
+            "name": {
+                "value": "Whiskey",
+                "closest_named_hex": "#D59A6F",
+                "exact_match_name": false,
+                "distance": 250
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.24528301886792458,
+                    "y": 0.5188679245283019,
+                    "k": 0.1686274509803921
+                },
+                "value": "cmyk(0, 25, 52, 17)",
+                "c": 0,
+                "m": 25,
+                "y": 52,
+                "k": 17
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6394345098039216,
+                    "Y": 0.6543827450980392,
+                    "Z": 0.47103764705882356
+                },
+                "value": "XYZ(64, 65, 47)",
+                "X": 64,
+                "Y": 65,
+                "Z": 47
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D4A066",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D4A066"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D4A066"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:03.450121",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D8A46D": {
+        "values": {
+            "hex": {
+                "value": "#D8A46D",
+                "clean": "D8A46D"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8470588235294118,
+                    "g": 0.6431372549019608,
+                    "b": 0.42745098039215684
+                },
+                "r": 216,
+                "g": 164,
+                "b": 109,
+                "value": "rgb(216, 164, 109)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08566978193146413,
+                    "s": 0.5783783783783785,
+                    "l": 0.6372549019607843
+                },
+                "h": 31,
+                "s": 58,
+                "l": 64,
+                "value": "hsl(31, 58%, 64%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08566978193146413,
+                    "s": 0.4953703703703704,
+                    "v": 0.8470588235294118
+                },
+                "value": "hsv(31, 50%, 85%)",
+                "h": 31,
+                "s": 50,
+                "v": 85
+            },
+            "name": {
+                "value": "Whiskey",
+                "closest_named_hex": "#D59A6F",
+                "exact_match_name": false,
+                "distance": 273
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.24074074074074067,
+                    "y": 0.4953703703703703,
+                    "k": 0.15294117647058825
+                },
+                "value": "cmyk(0, 24, 50, 15)",
+                "c": 0,
+                "m": 24,
+                "y": 50,
+                "k": 15
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6564678431372549,
+                    "Y": 0.670918431372549,
+                    "Z": 0.4993023529411764
+                },
+                "value": "XYZ(66, 67, 50)",
+                "X": 66,
+                "Y": 67,
+                "Z": 50
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D8A46D",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D8A46D"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D8A46D"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:03.739543",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#F2BB96": {
+        "values": {
+            "hex": {
+                "value": "#F2BB96",
+                "clean": "F2BB96"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9490196078431372,
+                    "g": 0.7333333333333333,
+                    "b": 0.5882352941176471
+                },
+                "r": 242,
+                "g": 187,
+                "b": 150,
+                "value": "rgb(242, 187, 150)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06702898550724634,
+                    "s": 0.7796610169491524,
+                    "l": 0.7686274509803921
+                },
+                "h": 24,
+                "s": 78,
+                "l": 77,
+                "value": "hsl(24, 78%, 77%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06702898550724634,
+                    "s": 0.3801652892561983,
+                    "v": 0.9490196078431372
+                },
+                "value": "hsv(24, 38%, 95%)",
+                "h": 24,
+                "s": 38,
+                "v": 95
+            },
+            "name": {
+                "value": "Manhattan",
+                "closest_named_hex": "#F5C999",
+                "exact_match_name": false,
+                "distance": 538
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2272727272727273,
+                    "y": 0.3801652892561983,
+                    "k": 0.050980392156862786
+                },
+                "value": "cmyk(0, 23, 38, 5)",
+                "c": 0,
+                "m": 23,
+                "y": 38,
+                "k": 5
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.759792156862745,
+                    "Y": 0.7687121568627451,
+                    "Z": 0.6648470588235295
+                },
+                "value": "XYZ(76, 77, 66)",
+                "X": 76,
+                "Y": 77,
+                "Z": 66
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=F2BB96",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=F2BB96"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=F2BB96"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:04.205195",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#F2BF91": {
+        "values": {
+            "hex": {
+                "value": "#F2BF91",
+                "clean": "F2BF91"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9490196078431372,
+                    "g": 0.7490196078431373,
+                    "b": 0.5686274509803921
+                },
+                "r": 242,
+                "g": 191,
+                "b": 145,
+                "value": "rgb(242, 191, 145)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07903780068728516,
+                    "s": 0.7886178861788616,
+                    "l": 0.7588235294117647
+                },
+                "h": 28,
+                "s": 79,
+                "l": 76,
+                "value": "hsl(28, 79%, 76%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07903780068728516,
+                    "s": 0.40082644628099173,
+                    "v": 0.9490196078431372
+                },
+                "value": "hsv(28, 40%, 95%)",
+                "h": 28,
+                "s": 40,
+                "v": 95
+            },
+            "name": {
+                "value": "Manhattan",
+                "closest_named_hex": "#F5C999",
+                "exact_match_name": false,
+                "distance": 381
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.21074380165289253,
+                    "y": 0.40082644628099173,
+                    "k": 0.050980392156862786
+                },
+                "value": "cmyk(0, 21, 40, 5)",
+                "c": 0,
+                "m": 21,
+                "y": 40,
+                "k": 5
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7618623529411763,
+                    "Y": 0.7785152941176471,
+                    "Z": 0.6480796078431372
+                },
+                "value": "XYZ(76, 78, 65)",
+                "X": 76,
+                "Y": 78,
+                "Z": 65
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=F2BF91",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=F2BF91"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=F2BF91"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:04.521992",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D0A26E": {
+        "values": {
+            "hex": {
+                "value": "#D0A26E",
+                "clean": "D0A26E"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8156862745098039,
+                    "g": 0.6352941176470588,
+                    "b": 0.43137254901960786
+                },
+                "r": 208,
+                "g": 162,
+                "b": 110,
+                "value": "rgb(208, 162, 110)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08843537414965985,
+                    "s": 0.5104166666666666,
+                    "l": 0.6235294117647059
+                },
+                "h": 32,
+                "s": 51,
+                "l": 62,
+                "value": "hsl(32, 51%, 62%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08843537414965985,
+                    "s": 0.47115384615384615,
+                    "v": 0.8156862745098039
+                },
+                "value": "hsv(32, 47%, 82%)",
+                "h": 32,
+                "s": 47,
+                "v": 82
+            },
+            "name": {
+                "value": "Whiskey",
+                "closest_named_hex": "#D59A6F",
+                "exact_match_name": false,
+                "distance": 320
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2211538461538462,
+                    "y": 0.47115384615384615,
+                    "k": 0.1843137254901961
+                },
+                "value": "cmyk(0, 22, 47, 18)",
+                "c": 0,
+                "m": 22,
+                "y": 47,
+                "k": 18
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6414329411764705,
+                    "Y": 0.6589223529411764,
+                    "Z": 0.501489411764706
+                },
+                "value": "XYZ(64, 66, 50)",
+                "X": 64,
+                "Y": 66,
+                "Z": 50
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D0A26E",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D0A26E"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D0A26E"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:04.805462",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#EDBE98": {
+        "values": {
+            "hex": {
+                "value": "#EDBE98",
+                "clean": "EDBE98"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9294117647058824,
+                    "g": 0.7450980392156863,
+                    "b": 0.596078431372549
+                },
+                "r": 237,
+                "g": 190,
+                "b": 152,
+                "value": "rgb(237, 190, 152)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07450980392156858,
+                    "s": 0.7024793388429753,
+                    "l": 0.7627450980392156
+                },
+                "h": 27,
+                "s": 70,
+                "l": 76,
+                "value": "hsl(27, 70%, 76%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07450980392156858,
+                    "s": 0.35864978902953587,
+                    "v": 0.9294117647058824
+                },
+                "value": "hsv(27, 36%, 93%)",
+                "h": 27,
+                "s": 36,
+                "v": 93
+            },
+            "name": {
+                "value": "Maize",
+                "closest_named_hex": "#EDD19C",
+                "exact_match_name": false,
+                "distance": 531
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.19831223628691982,
+                    "y": 0.35864978902953587,
+                    "k": 0.07058823529411762
+                },
+                "value": "cmyk(0, 20, 36, 7)",
+                "c": 0,
+                "m": 20,
+                "y": 36,
+                "k": 7
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7573286274509805,
+                    "Y": 0.7735239215686275,
+                    "Z": 0.6733258823529412
+                },
+                "value": "XYZ(76, 77, 67)",
+                "X": 76,
+                "Y": 77,
+                "Z": 67
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=EDBE98",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=EDBE98"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=EDBE98"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:05.132295",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#DDB491": {
+        "values": {
+            "hex": {
+                "value": "#DDB491",
+                "clean": "DDB491"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8666666666666667,
+                    "g": 0.7058823529411765,
+                    "b": 0.5686274509803921
+                },
+                "r": 221,
+                "g": 180,
+                "b": 145,
+                "value": "rgb(221, 180, 145)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07675438596491246,
+                    "s": 0.5277777777777779,
+                    "l": 0.7176470588235294
+                },
+                "h": 28,
+                "s": 53,
+                "l": 72,
+                "value": "hsl(28, 53%, 72%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07675438596491246,
+                    "s": 0.3438914027149322,
+                    "v": 0.8666666666666667
+                },
+                "value": "hsv(28, 34%, 87%)",
+                "h": 28,
+                "s": 34,
+                "v": 87
+            },
+            "name": {
+                "value": "Brandy",
+                "closest_named_hex": "#DEC196",
+                "exact_match_name": false,
+                "distance": 287
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.1855203619909502,
+                    "y": 0.3438914027149322,
+                    "k": 0.1333333333333333
+                },
+                "value": "cmyk(0, 19, 34, 13)",
+                "c": 0,
+                "m": 19,
+                "y": 34,
+                "k": 13
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7124741176470588,
+                    "Y": 0.7301552941176471,
+                    "Z": 0.6413482352941177
+                },
+                "value": "XYZ(71, 73, 64)",
+                "X": 71,
+                "Y": 73,
+                "Z": 64
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=DDB491",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=DDB491"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=DDB491"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:05.404650",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#C29570": {
+        "values": {
+            "hex": {
+                "value": "#C29570",
+                "clean": "C29570"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7607843137254902,
+                    "g": 0.5843137254901961,
+                    "b": 0.4392156862745098
+                },
+                "r": 194,
+                "g": 149,
+                "b": 112,
+                "value": "rgb(194, 149, 112)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07520325203252043,
+                    "s": 0.40196078431372545,
+                    "l": 0.6
+                },
+                "h": 27,
+                "s": 40,
+                "l": 60,
+                "value": "hsl(27, 40%, 60%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07520325203252043,
+                    "s": 0.422680412371134,
+                    "v": 0.7607843137254902
+                },
+                "value": "hsv(27, 42%, 76%)",
+                "h": 27,
+                "s": 42,
+                "v": 76
+            },
+            "name": {
+                "value": "Antique Brass",
+                "closest_named_hex": "#CD9575",
+                "exact_match_name": false,
+                "distance": 884
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.23195876288659786,
+                    "y": 0.422680412371134,
+                    "k": 0.23921568627450984
+                },
+                "value": "cmyk(0, 23, 42, 24)",
+                "c": 0,
+                "m": 23,
+                "y": 42,
+                "k": 24
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6019764705882352,
+                    "Y": 0.611355294117647,
+                    "Z": 0.5018078431372549
+                },
+                "value": "XYZ(60, 61, 50)",
+                "X": 60,
+                "Y": 61,
+                "Z": 50
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=C29570",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=C29570"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=C29570"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:05.685709",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#E7B79C": {
+        "values": {
+            "hex": {
+                "value": "#E7B79C",
+                "clean": "E7B79C"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9058823529411765,
+                    "g": 0.7176470588235294,
+                    "b": 0.611764705882353
+                },
+                "r": 231,
+                "g": 183,
+                "b": 156,
+                "value": "rgb(231, 183, 156)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.05999999999999994,
+                    "s": 0.6097560975609755,
+                    "l": 0.7588235294117647
+                },
+                "h": 22,
+                "s": 61,
+                "l": 76,
+                "value": "hsl(22, 61%, 76%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.05999999999999994,
+                    "s": 0.3246753246753246,
+                    "v": 0.9058823529411765
+                },
+                "value": "hsv(22, 32%, 91%)",
+                "h": 22,
+                "s": 32,
+                "v": 91
+            },
+            "name": {
+                "value": "Cashmere",
+                "closest_named_hex": "#E6BEA5",
+                "exact_match_name": false,
+                "distance": 407
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.20779220779220778,
+                    "y": 0.3246753246753246,
+                    "k": 0.09411764705882353
+                },
+                "value": "cmyk(0, 21, 32, 9)",
+                "c": 0,
+                "m": 21,
+                "y": 32,
+                "k": 9
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.74064,
+                    "Y": 0.7500211764705883,
+                    "Z": 0.6845094117647059
+                },
+                "value": "XYZ(74, 75, 68)",
+                "X": 74,
+                "Y": 75,
+                "Z": 68
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=E7B79C",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=E7B79C"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=E7B79C"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:06.058719",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#E5AD8A": {
+        "values": {
+            "hex": {
+                "value": "#E5AD8A",
+                "clean": "E5AD8A"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8980392156862745,
+                    "g": 0.6784313725490196,
+                    "b": 0.5411764705882353
+                },
+                "r": 229,
+                "g": 173,
+                "b": 138,
+                "value": "rgb(229, 173, 138)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0641025641025641,
+                    "s": 0.6363636363636364,
+                    "l": 0.7196078431372549
+                },
+                "h": 23,
+                "s": 64,
+                "l": 72,
+                "value": "hsl(23, 64%, 72%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0641025641025641,
+                    "s": 0.3973799126637555,
+                    "v": 0.8980392156862745
+                },
+                "value": "hsv(23, 40%, 90%)",
+                "h": 23,
+                "s": 40,
+                "v": 90
+            },
+            "name": {
+                "value": "Tonys Pink",
+                "closest_named_hex": "#E79F8C",
+                "exact_match_name": false,
+                "distance": 372
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2445414847161572,
+                    "y": 0.3973799126637555,
+                    "k": 0.10196078431372546
+                },
+                "value": "cmyk(0, 24, 40, 10)",
+                "c": 0,
+                "m": 24,
+                "y": 40,
+                "k": 10
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7106407843137255,
+                    "Y": 0.7152101960784314,
+                    "Z": 0.6125894117647058
+                },
+                "value": "XYZ(71, 72, 61)",
+                "X": 71,
+                "Y": 72,
+                "Z": 61
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=E5AD8A",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=E5AD8A"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=E5AD8A"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:06.378367",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#CF905D": {
+        "values": {
+            "hex": {
+                "value": "#CF905D",
+                "clean": "CF905D"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8117647058823529,
+                    "g": 0.5647058823529412,
+                    "b": 0.36470588235294116
+                },
+                "r": 207,
+                "g": 144,
+                "b": 93,
+                "value": "rgb(207, 144, 93)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07456140350877194,
+                    "s": 0.5428571428571429,
+                    "l": 0.5882352941176471
+                },
+                "h": 27,
+                "s": 54,
+                "l": 59,
+                "value": "hsl(27, 54%, 59%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07456140350877194,
+                    "s": 0.5507246376811594,
+                    "v": 0.8117647058823529
+                },
+                "value": "hsv(27, 55%, 81%)",
+                "h": 27,
+                "s": 55,
+                "v": 81
+            },
+            "name": {
+                "value": "Raw Sienna",
+                "closest_named_hex": "#D68A59",
+                "exact_match_name": false,
+                "distance": 571
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.30434782608695654,
+                    "y": 0.5507246376811594,
+                    "k": 0.18823529411764706
+                },
+                "value": "cmyk(0, 30, 55, 19)",
+                "c": 0,
+                "m": 30,
+                "y": 55,
+                "k": 19
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.60254,
+                    "Y": 0.6027905882352941,
+                    "Z": 0.42963294117647055
+                },
+                "value": "XYZ(60, 60, 43)",
+                "X": 60,
+                "Y": 60,
+                "Z": 43
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=CF905D",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=CF905D"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=CF905D"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:06.655324",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#C48F56": {
+        "values": {
+            "hex": {
+                "value": "#C48F56",
+                "clean": "C48F56"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7686274509803922,
+                    "g": 0.5607843137254902,
+                    "b": 0.33725490196078434
+                },
+                "r": 196,
+                "g": 143,
+                "b": 86,
+                "value": "rgb(196, 143, 86)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08636363636363642,
+                    "s": 0.4824561403508772,
+                    "l": 0.5529411764705883
+                },
+                "h": 31,
+                "s": 48,
+                "l": 55,
+                "value": "hsl(31, 48%, 55%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08636363636363642,
+                    "s": 0.5612244897959183,
+                    "v": 0.7686274509803922
+                },
+                "value": "hsv(31, 56%, 77%)",
+                "h": 31,
+                "s": 56,
+                "v": 77
+            },
+            "name": {
+                "value": "Aztec Gold",
+                "closest_named_hex": "#C39953",
+                "exact_match_name": false,
+                "distance": 150
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.27040816326530615,
+                    "y": 0.5612244897959183,
+                    "k": 0.2313725490196078
+                },
+                "value": "cmyk(0, 27, 56, 23)",
+                "c": 0,
+                "m": 27,
+                "y": 56,
+                "k": 23
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5783929411764707,
+                    "Y": 0.5888329411764706,
+                    "Z": 0.40224078431372556
+                },
+                "value": "XYZ(58, 59, 40)",
+                "X": 58,
+                "Y": 59,
+                "Z": 40
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=C48F56",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=C48F56"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=C48F56"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:06.968836",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#EBAD81": {
+        "values": {
+            "hex": {
+                "value": "#EBAD81",
+                "clean": "EBAD81"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.9215686274509803,
+                    "g": 0.6784313725490196,
+                    "b": 0.5058823529411764
+                },
+                "r": 235,
+                "g": 173,
+                "b": 129,
+                "value": "rgb(235, 173, 129)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0691823899371069,
+                    "s": 0.7260273972602737,
+                    "l": 0.7137254901960783
+                },
+                "h": 25,
+                "s": 73,
+                "l": 71,
+                "value": "hsl(25, 73%, 71%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0691823899371069,
+                    "s": 0.451063829787234,
+                    "v": 0.9215686274509803
+                },
+                "value": "hsv(25, 45%, 92%)",
+                "h": 25,
+                "s": 45,
+                "v": 92
+            },
+            "name": {
+                "value": "Tacao",
+                "closest_named_hex": "#EDB381",
+                "exact_match_name": false,
+                "distance": 128
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2638297872340425,
+                    "y": 0.451063829787234,
+                    "k": 0.07843137254901966
+                },
+                "value": "cmyk(0, 26, 45, 8)",
+                "c": 0,
+                "m": 26,
+                "y": 45,
+                "k": 8
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.713973725490196,
+                    "Y": 0.7176643137254901,
+                    "Z": 0.5794964705882353
+                },
+                "value": "XYZ(71, 72, 58)",
+                "X": 71,
+                "Y": 72,
+                "Z": 58
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=EBAD81",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=EBAD81"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=EBAD81"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:07.258512",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D59A71": {
+        "values": {
+            "hex": {
+                "value": "#D59A71",
+                "clean": "D59A71"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8352941176470589,
+                    "g": 0.6039215686274509,
+                    "b": 0.44313725490196076
+                },
+                "r": 213,
+                "g": 154,
+                "b": 113,
+                "value": "rgb(213, 154, 113)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06833333333333336,
+                    "s": 0.5434782608695654,
+                    "l": 0.6392156862745098
+                },
+                "h": 25,
+                "s": 54,
+                "l": 64,
+                "value": "hsl(25, 54%, 64%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06833333333333336,
+                    "s": 0.46948356807511743,
+                    "v": 0.8352941176470589
+                },
+                "value": "hsv(25, 47%, 84%)",
+                "h": 25,
+                "s": 47,
+                "v": 84
+            },
+            "name": {
+                "value": "Whiskey",
+                "closest_named_hex": "#D59A6F",
+                "exact_match_name": false,
+                "distance": 8
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2769953051643193,
+                    "y": 0.46948356807511743,
+                    "k": 0.16470588235294115
+                },
+                "value": "cmyk(0, 28, 47, 16)",
+                "c": 0,
+                "m": 28,
+                "y": 47,
+                "k": 16
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6404239215686274,
+                    "Y": 0.6415027450980392,
+                    "Z": 0.5093105882352941
+                },
+                "value": "XYZ(64, 64, 51)",
+                "X": 64,
+                "Y": 64,
+                "Z": 51
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D59A71",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D59A71"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D59A71"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:07.693591",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D69060": {
+        "values": {
+            "hex": {
+                "value": "#D69060",
+                "clean": "D69060"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8392156862745098,
+                    "g": 0.5647058823529412,
+                    "b": 0.3764705882352941
+                },
+                "r": 214,
+                "g": 144,
+                "b": 96,
+                "value": "rgb(214, 144, 96)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06779661016949146,
+                    "s": 0.5900000000000001,
+                    "l": 0.607843137254902
+                },
+                "h": 24,
+                "s": 59,
+                "l": 61,
+                "value": "hsl(24, 59%, 61%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06779661016949146,
+                    "s": 0.5514018691588786,
+                    "v": 0.8392156862745098
+                },
+                "value": "hsv(24, 55%, 84%)",
+                "h": 24,
+                "s": 55,
+                "v": 84
+            },
+            "name": {
+                "value": "Raw Sienna",
+                "closest_named_hex": "#D68A59",
+                "exact_match_name": false,
+                "distance": 137
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3271028037383178,
+                    "y": 0.5514018691588786,
+                    "k": 0.16078431372549018
+                },
+                "value": "cmyk(0, 33, 55, 16)",
+                "c": 0,
+                "m": 33,
+                "y": 55,
+                "k": 16
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6159843137254901,
+                    "Y": 0.6094760784313726,
+                    "Z": 0.44134509803921573
+                },
+                "value": "XYZ(62, 61, 44)",
+                "X": 62,
+                "Y": 61,
+                "Z": 44
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D69060",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D69060"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D69060"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:07.989808",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#BC8344": {
+        "values": {
+            "hex": {
+                "value": "#BC8344",
+                "clean": "BC8344"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7372549019607844,
+                    "g": 0.5137254901960784,
+                    "b": 0.26666666666666666
+                },
+                "r": 188,
+                "g": 131,
+                "b": 68,
+                "value": "rgb(188, 131, 68)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08750000000000002,
+                    "s": 0.4724409448818898,
+                    "l": 0.5019607843137255
+                },
+                "h": 32,
+                "s": 47,
+                "l": 50,
+                "value": "hsl(32, 47%, 50%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08750000000000002,
+                    "s": 0.6382978723404256,
+                    "v": 0.7372549019607844
+                },
+                "value": "hsv(32, 64%, 74%)",
+                "h": 32,
+                "s": 64,
+                "v": 74
+            },
+            "name": {
+                "value": "Tussock",
+                "closest_named_hex": "#C5994B",
+                "exact_match_name": false,
+                "distance": 992
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.30319148936170226,
+                    "y": 0.6382978723404257,
+                    "k": 0.26274509803921564
+                },
+                "value": "cmyk(0, 30, 64, 26)",
+                "c": 0,
+                "m": 30,
+                "y": 64,
+                "k": 26
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5358854901960785,
+                    "Y": 0.5434101960784313,
+                    "Z": 0.32893176470588237
+                },
+                "value": "XYZ(54, 54, 33)",
+                "X": 54,
+                "Y": 54,
+                "Z": 33
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=BC8344",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=BC8344"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=BC8344"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:08.270793",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#CA977A": {
+        "values": {
+            "hex": {
+                "value": "#CA977A",
+                "clean": "CA977A"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.792156862745098,
+                    "g": 0.592156862745098,
+                    "b": 0.47843137254901963
+                },
+                "r": 202,
+                "g": 151,
+                "b": 122,
+                "value": "rgb(202, 151, 122)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.060416666666666674,
+                    "s": 0.4301075268817203,
+                    "l": 0.6352941176470588
+                },
+                "h": 22,
+                "s": 43,
+                "l": 64,
+                "value": "hsl(22, 43%, 64%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.060416666666666674,
+                    "s": 0.396039603960396,
+                    "v": 0.792156862745098
+                },
+                "value": "hsv(22, 40%, 79%)",
+                "h": 22,
+                "s": 40,
+                "v": 79
+            },
+            "name": {
+                "value": "Antique Brass",
+                "closest_named_hex": "#CD9575",
+                "exact_match_name": false,
+                "distance": 240
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2524752475247524,
+                    "y": 0.3960396039603959,
+                    "k": 0.207843137254902
+                },
+                "value": "cmyk(0, 25, 40, 21)",
+                "c": 0,
+                "m": 25,
+                "y": 40,
+                "k": 21
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6247976470588235,
+                    "Y": 0.6264658823529411,
+                    "Z": 0.5406227450980392
+                },
+                "value": "XYZ(62, 63, 54)",
+                "X": 62,
+                "Y": 63,
+                "Z": 54
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=CA977A",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=CA977A"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=CA977A"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:08.552998",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D7986D": {
+        "values": {
+            "hex": {
+                "value": "#D7986D",
+                "clean": "D7986D"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8431372549019608,
+                    "g": 0.596078431372549,
+                    "b": 0.42745098039215684
+                },
+                "r": 215,
+                "g": 152,
+                "b": 109,
+                "value": "rgb(215, 152, 109)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0676100628930818,
+                    "s": 0.5698924731182797,
+                    "l": 0.6352941176470588
+                },
+                "h": 24,
+                "s": 57,
+                "l": 64,
+                "value": "hsl(24, 57%, 64%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0676100628930818,
+                    "s": 0.4930232558139535,
+                    "v": 0.8431372549019608
+                },
+                "value": "hsv(24, 49%, 84%)",
+                "h": 24,
+                "s": 49,
+                "v": 84
+            },
+            "name": {
+                "value": "Whiskey",
+                "closest_named_hex": "#D59A6F",
+                "exact_match_name": false,
+                "distance": 84
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2930232558139535,
+                    "y": 0.49302325581395345,
+                    "k": 0.1568627450980392
+                },
+                "value": "cmyk(0, 29, 49, 16)",
+                "c": 0,
+                "m": 29,
+                "y": 49,
+                "k": 16
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6380223529411765,
+                    "Y": 0.6364282352941175,
+                    "Z": 0.49361725490196073
+                },
+                "value": "XYZ(64, 64, 49)",
+                "X": 64,
+                "Y": 64,
+                "Z": 49
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D7986D",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D7986D"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D7986D"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:08.865935",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#C27440": {
+        "values": {
+            "hex": {
+                "value": "#C27440",
+                "clean": "C27440"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7607843137254902,
+                    "g": 0.4549019607843137,
+                    "b": 0.25098039215686274
+                },
+                "r": 194,
+                "g": 116,
+                "b": 64,
+                "value": "rgb(194, 116, 64)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06666666666666665,
+                    "s": 0.5158730158730158,
+                    "l": 0.5058823529411764
+                },
+                "h": 24,
+                "s": 52,
+                "l": 51,
+                "value": "hsl(24, 52%, 51%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06666666666666665,
+                    "s": 0.6701030927835051,
+                    "v": 0.7607843137254902
+                },
+                "value": "hsv(24, 67%, 76%)",
+                "h": 24,
+                "s": 67,
+                "v": 76
+            },
+            "name": {
+                "value": "Copper",
+                "closest_named_hex": "#B87333",
+                "exact_match_name": false,
+                "distance": 914
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.40206185567010316,
+                    "y": 0.6701030927835051,
+                    "k": 0.23921568627450984
+                },
+                "value": "cmyk(0, 40, 67, 24)",
+                "c": 0,
+                "m": 40,
+                "y": 67,
+                "k": 24
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5217223529411764,
+                    "Y": 0.5052094117647059,
+                    "Z": 0.3074643137254902
+                },
+                "value": "XYZ(52, 51, 31)",
+                "X": 52,
+                "Y": 51,
+                "Z": 31
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=C27440",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=C27440"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=C27440"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:09.152848",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#AB6F37": {
+        "values": {
+            "hex": {
+                "value": "#AB6F37",
+                "clean": "AB6F37"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6705882352941176,
+                    "g": 0.43529411764705883,
+                    "b": 0.21568627450980393
+                },
+                "r": 171,
+                "g": 111,
+                "b": 55,
+                "value": "rgb(171, 111, 55)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08045977011494265,
+                    "s": 0.5132743362831858,
+                    "l": 0.44313725490196076
+                },
+                "h": 29,
+                "s": 51,
+                "l": 44,
+                "value": "hsl(29, 51%, 44%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08045977011494265,
+                    "s": 0.6783625730994152,
+                    "v": 0.6705882352941176
+                },
+                "value": "hsv(29, 68%, 67%)",
+                "h": 29,
+                "s": 68,
+                "v": 67
+            },
+            "name": {
+                "value": "Copper",
+                "closest_named_hex": "#B87333",
+                "exact_match_name": false,
+                "distance": 625
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.35087719298245607,
+                    "y": 0.6783625730994152,
+                    "k": 0.3294117647058824
+                },
+                "value": "cmyk(0, 35, 68, 33)",
+                "c": 0,
+                "m": 35,
+                "y": 68,
+                "k": 33
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.4711431372549019,
+                    "Y": 0.46946196078431374,
+                    "Z": 0.26983921568627456
+                },
+                "value": "XYZ(47, 47, 27)",
+                "X": 47,
+                "Y": 47,
+                "Z": 27
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=AB6F37",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=AB6F37"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=AB6F37"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:09.474466",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#AD7247": {
+        "values": {
+            "hex": {
+                "value": "#AD7247",
+                "clean": "AD7247"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6784313725490196,
+                    "g": 0.4470588235294118,
+                    "b": 0.2784313725490196
+                },
+                "r": 173,
+                "g": 114,
+                "b": 71,
+                "value": "rgb(173, 114, 71)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0702614379084967,
+                    "s": 0.4180327868852459,
+                    "l": 0.47843137254901963
+                },
+                "h": 25,
+                "s": 42,
+                "l": 48,
+                "value": "hsl(25, 42%, 48%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0702614379084967,
+                    "s": 0.5895953757225434,
+                    "v": 0.6784313725490196
+                },
+                "value": "hsv(25, 59%, 68%)",
+                "h": 25,
+                "s": 59,
+                "v": 68
+            },
+            "name": {
+                "value": "Brown Sugar",
+                "closest_named_hex": "#AF6E4D",
+                "exact_match_name": false,
+                "distance": 204
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.34104046242774577,
+                    "y": 0.5895953757225434,
+                    "k": 0.32156862745098036
+                },
+                "value": "cmyk(0, 34, 59, 32)",
+                "c": 0,
+                "m": 34,
+                "y": 59,
+                "k": 32
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.4899101960784314,
+                    "Y": 0.4840737254901961,
+                    "Z": 0.3310321568627451
+                },
+                "value": "XYZ(49, 48, 33)",
+                "X": 49,
+                "Y": 48,
+                "Z": 33
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=AD7247",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=AD7247"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=AD7247"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:09.757336",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#C0976B": {
+        "values": {
+            "hex": {
+                "value": "#C0976B",
+                "clean": "C0976B"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7529411764705882,
+                    "g": 0.592156862745098,
+                    "b": 0.4196078431372549
+                },
+                "r": 192,
+                "g": 151,
+                "b": 107,
+                "value": "rgb(192, 151, 107)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0862745098039216,
+                    "s": 0.4028436018957346,
+                    "l": 0.5862745098039216
+                },
+                "h": 31,
+                "s": 40,
+                "l": 59,
+                "value": "hsl(31, 40%, 59%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0862745098039216,
+                    "s": 0.4427083333333333,
+                    "v": 0.7529411764705882
+                },
+                "value": "hsv(31, 44%, 75%)",
+                "h": 31,
+                "s": 44,
+                "v": 75
+            },
+            "name": {
+                "value": "Twine",
+                "closest_named_hex": "#C2955D",
+                "exact_match_name": false,
+                "distance": 616
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.21354166666666666,
+                    "y": 0.44270833333333326,
+                    "k": 0.24705882352941178
+                },
+                "value": "cmyk(0, 21, 44, 25)",
+                "c": 0,
+                "m": 21,
+                "y": 44,
+                "k": 25
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5980074509803922,
+                    "Y": 0.613881568627451,
+                    "Z": 0.48395411764705887
+                },
+                "value": "XYZ(60, 61, 48)",
+                "X": 60,
+                "Y": 61,
+                "Z": 48
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=C0976B",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=C0976B"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=C0976B"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:10.071755",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#BE8058": {
+        "values": {
+            "hex": {
+                "value": "#BE8058",
+                "clean": "BE8058"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7450980392156863,
+                    "g": 0.5019607843137255,
+                    "b": 0.34509803921568627
+                },
+                "r": 190,
+                "g": 128,
+                "b": 88,
+                "value": "rgb(190, 128, 88)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.065359477124183,
+                    "s": 0.43965517241379315,
+                    "l": 0.5450980392156863
+                },
+                "h": 24,
+                "s": 44,
+                "l": 55,
+                "value": "hsl(24, 44%, 55%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.065359477124183,
+                    "s": 0.5368421052631579,
+                    "v": 0.7450980392156863
+                },
+                "value": "hsv(24, 54%, 75%)",
+                "h": 24,
+                "s": 54,
+                "v": 75
+            },
+            "name": {
+                "value": "Chocolate",
+                "closest_named_hex": "#BD8260",
+                "exact_match_name": false,
+                "distance": 187
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3263157894736842,
+                    "y": 0.5368421052631579,
+                    "k": 0.2549019607843137
+                },
+                "value": "cmyk(0, 33, 54, 25)",
+                "c": 0,
+                "m": 33,
+                "y": 54,
+                "k": 25
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5490698039215686,
+                    "Y": 0.542326274509804,
+                    "Z": 0.4022298039215686
+                },
+                "value": "XYZ(55, 54, 40)",
+                "X": 55,
+                "Y": 54,
+                "Z": 40
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=BE8058",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=BE8058"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=BE8058"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:10.361705",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#C68F4F": {
+        "values": {
+            "hex": {
+                "value": "#C68F4F",
+                "clean": "C68F4F"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7764705882352941,
+                    "g": 0.5607843137254902,
+                    "b": 0.30980392156862746
+                },
+                "r": 198,
+                "g": 143,
+                "b": 79,
+                "value": "rgb(198, 143, 79)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08963585434173671,
+                    "s": 0.5107296137339056,
+                    "l": 0.5431372549019609
+                },
+                "h": 32,
+                "s": 51,
+                "l": 54,
+                "value": "hsl(32, 51%, 54%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08963585434173671,
+                    "s": 0.601010101010101,
+                    "v": 0.7764705882352941
+                },
+                "value": "hsv(32, 60%, 78%)",
+                "h": 32,
+                "s": 60,
+                "v": 78
+            },
+            "name": {
+                "value": "Tussock",
+                "closest_named_hex": "#C5994B",
+                "exact_match_name": false,
+                "distance": 175
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2777777777777778,
+                    "y": 0.601010101010101,
+                    "k": 0.22352941176470587
+                },
+                "value": "cmyk(0, 28, 60, 22)",
+                "c": 0,
+                "m": 28,
+                "y": 60,
+                "k": 22
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5766725490196077,
+                    "Y": 0.5885184313725491,
+                    "Z": 0.3763
+                },
+                "value": "XYZ(58, 59, 38)",
+                "X": 58,
+                "Y": 59,
+                "Z": 38
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=C68F4F",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=C68F4F"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=C68F4F"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:10.664496",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#AB7E49": {
+        "values": {
+            "hex": {
+                "value": "#AB7E49",
+                "clean": "AB7E49"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6705882352941176,
+                    "g": 0.49411764705882355,
+                    "b": 0.28627450980392155
+                },
+                "r": 171,
+                "g": 126,
+                "b": 73,
+                "value": "rgb(171, 126, 73)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.09013605442176875,
+                    "s": 0.4016393442622951,
+                    "l": 0.4784313725490196
+                },
+                "h": 32,
+                "s": 40,
+                "l": 48,
+                "value": "hsl(32, 40%, 48%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.09013605442176875,
+                    "s": 0.5730994152046783,
+                    "v": 0.6705882352941176
+                },
+                "value": "hsv(32, 57%, 67%)",
+                "h": 32,
+                "s": 57,
+                "v": 67
+            },
+            "name": {
+                "value": "Driftwood",
+                "closest_named_hex": "#AF8751",
+                "exact_match_name": false,
+                "distance": 395
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.26315789473684204,
+                    "y": 0.5730994152046783,
+                    "k": 0.3294117647058824
+                },
+                "value": "cmyk(0, 26, 57, 33)",
+                "c": 0,
+                "m": 26,
+                "y": 57,
+                "k": 33
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5049196078431373,
+                    "Y": 0.5166290196078431,
+                    "Z": 0.3439450980392157
+                },
+                "value": "XYZ(50, 52, 34)",
+                "X": 50,
+                "Y": 52,
+                "Z": 34
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=AB7E49",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=AB7E49"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=AB7E49"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:10.954550",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#CC9446": {
+        "values": {
+            "hex": {
+                "value": "#CC9446",
+                "clean": "CC9446"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8,
+                    "g": 0.5803921568627451,
+                    "b": 0.27450980392156865
+                },
+                "r": 204,
+                "g": 148,
+                "b": 70,
+                "value": "rgb(204, 148, 70)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.09701492537313439,
+                    "s": 0.5677966101694916,
+                    "l": 0.5372549019607844
+                },
+                "h": 35,
+                "s": 57,
+                "l": 54,
+                "value": "hsl(35, 57%, 54%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.09701492537313439,
+                    "s": 0.6568627450980392,
+                    "v": 0.8
+                },
+                "value": "hsv(35, 66%, 80%)",
+                "h": 35,
+                "s": 66,
+                "v": 80
+            },
+            "name": {
+                "value": "Tussock",
+                "closest_named_hex": "#C5994B",
+                "exact_match_name": false,
+                "distance": 511
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.2745098039215686,
+                    "y": 0.6568627450980392,
+                    "k": 0.19999999999999996
+                },
+                "value": "cmyk(0, 27, 66, 20)",
+                "c": 0,
+                "m": 27,
+                "y": 66,
+                "k": 20
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5870172549019608,
+                    "Y": 0.6049960784313726,
+                    "Z": 0.3455443137254902
+                },
+                "value": "XYZ(59, 60, 35)",
+                "X": 59,
+                "Y": 60,
+                "Z": 35
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=CC9446",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=CC9446"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=CC9446"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:11.265738",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#99562C": {
+        "values": {
+            "hex": {
+                "value": "#99562C",
+                "clean": "99562C"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6,
+                    "g": 0.33725490196078434,
+                    "b": 0.17254901960784313
+                },
+                "r": 153,
+                "g": 86,
+                "b": 44,
+                "value": "rgb(153, 86, 44)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06422018348623848,
+                    "s": 0.5532994923857868,
+                    "l": 0.38627450980392153
+                },
+                "h": 23,
+                "s": 55,
+                "l": 39,
+                "value": "hsl(23, 55%, 39%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06422018348623848,
+                    "s": 0.7124183006535948,
+                    "v": 0.6
+                },
+                "value": "hsv(23, 71%, 60%)",
+                "h": 23,
+                "s": 71,
+                "v": 60
+            },
+            "name": {
+                "value": "Paarl",
+                "closest_named_hex": "#A65529",
+                "exact_match_name": false,
+                "distance": 525
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.4379084967320261,
+                    "y": 0.7124183006535947,
+                    "k": 0.4
+                },
+                "value": "cmyk(0, 44, 71, 40)",
+                "c": 0,
+                "m": 44,
+                "y": 71,
+                "k": 40
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.39918745098039216,
+                    "Y": 0.3812227450980392,
+                    "Z": 0.21578862745098037
+                },
+                "value": "XYZ(40, 38, 22)",
+                "X": 40,
+                "Y": 38,
+                "Z": 22
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=99562C",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=99562C"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=99562C"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:49:11.538531",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#DA926B": {
+        "values": {
+            "hex": {
+                "value": "#DA926B",
+                "clean": "DA926B"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8549019607843137,
+                    "g": 0.5725490196078431,
+                    "b": 0.4196078431372549
+                },
+                "r": 218,
+                "g": 146,
+                "b": 107,
+                "value": "rgb(218, 146, 107)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.05855855855855863,
+                    "s": 0.6000000000000001,
+                    "l": 0.6372549019607843
+                },
+                "h": 21,
+                "s": 60,
+                "l": 64,
+                "value": "hsl(21, 60%, 64%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.05855855855855863,
+                    "s": 0.5091743119266054,
+                    "v": 0.8549019607843137
+                },
+                "value": "hsv(21, 51%, 85%)",
+                "h": 21,
+                "s": 51,
+                "v": 85
+            },
+            "name": {
+                "value": "Copperfield",
+                "closest_named_hex": "#DA8A67",
+                "exact_match_name": false,
+                "distance": 114
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3302752293577982,
+                    "y": 0.5091743119266054,
+                    "k": 0.14509803921568631
+                },
+                "value": "cmyk(0, 33, 51, 15)",
+                "c": 0,
+                "m": 33,
+                "y": 51,
+                "k": 15
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.6330443137254902,
+                    "Y": 0.6215349019607843,
+                    "Z": 0.48358470588235297
+                },
+                "value": "XYZ(63, 62, 48)",
+                "X": 63,
+                "Y": 62,
+                "Z": 48
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=DA926B",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=DA926B"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=DA926B"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:30.872264",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#B56E38": {
+        "values": {
+            "hex": {
+                "value": "#B56E38",
+                "clean": "B56E38"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7098039215686275,
+                    "g": 0.43137254901960786,
+                    "b": 0.2196078431372549
+                },
+                "r": 181,
+                "g": 110,
+                "b": 56,
+                "value": "rgb(181, 110, 56)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07199999999999995,
+                    "s": 0.5274261603375527,
+                    "l": 0.4647058823529412
+                },
+                "h": 26,
+                "s": 53,
+                "l": 46,
+                "value": "hsl(26, 53%, 46%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07199999999999995,
+                    "s": 0.6906077348066298,
+                    "v": 0.7098039215686275
+                },
+                "value": "hsv(26, 69%, 71%)",
+                "h": 26,
+                "s": 69,
+                "v": 71
+            },
+            "name": {
+                "value": "Copper",
+                "closest_named_hex": "#B87333",
+                "exact_match_name": false,
+                "distance": 269
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.39226519337016574,
+                    "y": 0.6906077348066298,
+                    "k": 0.2901960784313725
+                },
+                "value": "cmyk(0, 39, 69, 29)",
+                "c": 0,
+                "m": 39,
+                "y": 69,
+                "k": 29
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.4866211764705882,
+                    "Y": 0.4752776470588235,
+                    "Z": 0.27385607843137255
+                },
+                "value": "XYZ(49, 48, 27)",
+                "X": 49,
+                "Y": 48,
+                "Z": 27
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=B56E38",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=B56E38"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=B56E38"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:31.272343",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#A86834": {
+        "values": {
+            "hex": {
+                "value": "#A86834",
+                "clean": "A86834"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6588235294117647,
+                    "g": 0.40784313725490196,
+                    "b": 0.20392156862745098
+                },
+                "r": 168,
+                "g": 104,
+                "b": 52,
+                "value": "rgb(168, 104, 52)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07471264367816088,
+                    "s": 0.5272727272727272,
+                    "l": 0.43137254901960786
+                },
+                "h": 27,
+                "s": 53,
+                "l": 43,
+                "value": "hsl(27, 53%, 43%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07471264367816088,
+                    "s": 0.6904761904761905,
+                    "v": 0.6588235294117647
+                },
+                "value": "hsv(27, 69%, 66%)",
+                "h": 27,
+                "s": 69,
+                "v": 66
+            },
+            "name": {
+                "value": "Copper",
+                "closest_named_hex": "#B87333",
+                "exact_match_name": false,
+                "distance": 678
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.38095238095238093,
+                    "y": 0.6904761904761906,
+                    "k": 0.3411764705882353
+                },
+                "value": "cmyk(0, 38, 69, 34)",
+                "c": 0,
+                "m": 38,
+                "y": 69,
+                "k": 34
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.4543513725490196,
+                    "Y": 0.446478431372549,
+                    "Z": 0.25515764705882354
+                },
+                "value": "XYZ(45, 45, 26)",
+                "X": 45,
+                "Y": 45,
+                "Z": 26
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=A86834",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=A86834"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=A86834"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:31.681198",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#BB8046": {
+        "values": {
+            "hex": {
+                "value": "#BB8046",
+                "clean": "BB8046"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7333333333333333,
+                    "g": 0.5019607843137255,
+                    "b": 0.27450980392156865
+                },
+                "r": 187,
+                "g": 128,
+                "b": 70,
+                "value": "rgb(187, 128, 70)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0826210826210827,
+                    "s": 0.46245059288537543,
+                    "l": 0.503921568627451
+                },
+                "h": 30,
+                "s": 46,
+                "l": 50,
+                "value": "hsl(30, 46%, 50%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0826210826210827,
+                    "s": 0.6256684491978609,
+                    "v": 0.7333333333333333
+                },
+                "value": "hsv(30, 63%, 73%)",
+                "h": 30,
+                "s": 63,
+                "v": 73
+            },
+            "name": {
+                "value": "Aztec Gold",
+                "closest_named_hex": "#C39953",
+                "exact_match_name": false,
+                "distance": 1222
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3155080213903743,
+                    "y": 0.6256684491978609,
+                    "k": 0.2666666666666667
+                },
+                "value": "cmyk(0, 32, 63, 27)",
+                "c": 0,
+                "m": 32,
+                "y": 63,
+                "k": 27
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.531476862745098,
+                    "Y": 0.5347286274509804,
+                    "Z": 0.33490862745098043
+                },
+                "value": "XYZ(53, 53, 33)",
+                "X": 53,
+                "Y": 53,
+                "Z": 33
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=BB8046",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=BB8046"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=BB8046"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:32.016843",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#C88644": {
+        "values": {
+            "hex": {
+                "value": "#C88644",
+                "clean": "C88644"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.7843137254901961,
+                    "g": 0.5254901960784314,
+                    "b": 0.26666666666666666
+                },
+                "r": 200,
+                "g": 134,
+                "b": 68,
+                "value": "rgb(200, 134, 68)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08333333333333326,
+                    "s": 0.5454545454545453,
+                    "l": 0.5254901960784314
+                },
+                "h": 30,
+                "s": 55,
+                "l": 53,
+                "value": "hsl(30, 55%, 53%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08333333333333326,
+                    "s": 0.6599999999999999,
+                    "v": 0.7843137254901961
+                },
+                "value": "hsv(30, 66%, 78%)",
+                "h": 30,
+                "s": 66,
+                "v": 78
+            },
+            "name": {
+                "value": "Tussock",
+                "closest_named_hex": "#C5994B",
+                "exact_match_name": false,
+                "distance": 661
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.32999999999999996,
+                    "y": 0.66,
+                    "k": 0.21568627450980393
+                },
+                "value": "cmyk(0, 33, 66, 22)",
+                "c": 0,
+                "m": 33,
+                "y": 66,
+                "k": 22
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.5594996078431372,
+                    "Y": 0.5618290196078431,
+                    "Z": 0.3312423529411765
+                },
+                "value": "XYZ(56, 56, 33)",
+                "X": 56,
+                "Y": 56,
+                "Z": 33
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=C88644",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=C88644"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=C88644"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:32.349301",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#A35829": {
+        "values": {
+            "hex": {
+                "value": "#A35829",
+                "clean": "A35829"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6392156862745098,
+                    "g": 0.34509803921568627,
+                    "b": 0.1607843137254902
+                },
+                "r": 163,
+                "g": 88,
+                "b": 41,
+                "value": "rgb(163, 88, 41)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.06420765027322406,
+                    "s": 0.5980392156862745,
+                    "l": 0.39999999999999997
+                },
+                "h": 23,
+                "s": 60,
+                "l": 40,
+                "value": "hsl(23, 60%, 40%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.06420765027322406,
+                    "s": 0.7484662576687117,
+                    "v": 0.6392156862745098
+                },
+                "value": "hsv(23, 75%, 64%)",
+                "h": 23,
+                "s": 75,
+                "v": 64
+            },
+            "name": {
+                "value": "Paarl",
+                "closest_named_hex": "#A65529",
+                "exact_match_name": false,
+                "distance": 36
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.460122699386503,
+                    "y": 0.7484662576687117,
+                    "k": 0.36078431372549025
+                },
+                "value": "cmyk(0, 46, 75, 36)",
+                "c": 0,
+                "m": 46,
+                "y": 75,
+                "k": 36
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.41604117647058814,
+                    "Y": 0.39431999999999995,
+                    "Z": 0.2062980392156863
+                },
+                "value": "XYZ(42, 39, 21)",
+                "X": 42,
+                "Y": 39,
+                "Z": 21
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=A35829",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=A35829"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=A35829"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:32.638935",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#A85F2A": {
+        "values": {
+            "hex": {
+                "value": "#A85F2A",
+                "clean": "A85F2A"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6588235294117647,
+                    "g": 0.37254901960784315,
+                    "b": 0.16470588235294117
+                },
+                "r": 168,
+                "g": 95,
+                "b": 42,
+                "value": "rgb(168, 95, 42)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07010582010582012,
+                    "s": 0.6000000000000001,
+                    "l": 0.4117647058823529
+                },
+                "h": 25,
+                "s": 60,
+                "l": 41,
+                "value": "hsl(25, 60%, 41%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07010582010582012,
+                    "s": 0.75,
+                    "v": 0.6588235294117647
+                },
+                "value": "hsv(25, 75%, 66%)",
+                "h": 25,
+                "s": 75,
+                "v": 66
+            },
+            "name": {
+                "value": "Paarl",
+                "closest_named_hex": "#A65529",
+                "exact_match_name": false,
+                "distance": 131
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.4345238095238095,
+                    "y": 0.75,
+                    "k": 0.3411764705882353
+                },
+                "value": "cmyk(0, 43, 75, 34)",
+                "c": 0,
+                "m": 43,
+                "y": 75,
+                "k": 34
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.4346517647058824,
+                    "Y": 0.418404705882353,
+                    "Z": 0.21367607843137254
+                },
+                "value": "XYZ(43, 42, 21)",
+                "X": 43,
+                "Y": 42,
+                "Z": 21
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=A85F2A",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=A85F2A"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=A85F2A"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:33.013896",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#8F4D2B": {
+        "values": {
+            "hex": {
+                "value": "#8F4D2B",
+                "clean": "8F4D2B"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5607843137254902,
+                    "g": 0.30196078431372547,
+                    "b": 0.16862745098039217
+                },
+                "r": 143,
+                "g": 77,
+                "b": 43,
+                "value": "rgb(143, 77, 43)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.056666666666666754,
+                    "s": 0.5376344086021505,
+                    "l": 0.3647058823529412
+                },
+                "h": 20,
+                "s": 54,
+                "l": 36,
+                "value": "hsl(20, 54%, 36%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.056666666666666754,
+                    "s": 0.6993006993006993,
+                    "v": 0.5607843137254902
+                },
+                "value": "hsv(20, 70%, 56%)",
+                "h": 20,
+                "s": 70,
+                "v": 56
+            },
+            "name": {
+                "value": "Mule Fawn",
+                "closest_named_hex": "#8C472F",
+                "exact_match_name": false,
+                "distance": 335
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.46153846153846145,
+                    "y": 0.6993006993006992,
+                    "k": 0.4392156862745098
+                },
+                "value": "cmyk(0, 46, 70, 44)",
+                "c": 0,
+                "m": 46,
+                "y": 70,
+                "k": 44
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3696858823529412,
+                    "Y": 0.34735999999999995,
+                    "Z": 0.2070972549019608
+                },
+                "value": "XYZ(37, 35, 21)",
+                "X": 37,
+                "Y": 35,
+                "Z": 21
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=8F4D2B",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=8F4D2B"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=8F4D2B"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:33.305630",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#8F5C35": {
+        "values": {
+            "hex": {
+                "value": "#8F5C35",
+                "clean": "8F5C35"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5607843137254902,
+                    "g": 0.3607843137254902,
+                    "b": 0.20784313725490197
+                },
+                "r": 143,
+                "g": 92,
+                "b": 53,
+                "value": "rgb(143, 92, 53)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07222222222222219,
+                    "s": 0.4591836734693877,
+                    "l": 0.3843137254901961
+                },
+                "h": 26,
+                "s": 46,
+                "l": 38,
+                "value": "hsl(26, 46%, 38%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07222222222222219,
+                    "s": 0.6293706293706293,
+                    "v": 0.5607843137254902
+                },
+                "value": "hsv(26, 63%, 56%)",
+                "h": 26,
+                "s": 63,
+                "v": 56
+            },
+            "name": {
+                "value": "Potters Clay",
+                "closest_named_hex": "#8C5738",
+                "exact_match_name": false,
+                "distance": 189
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.35664335664335656,
+                    "y": 0.6293706293706293,
+                    "k": 0.4392156862745098
+                },
+                "value": "cmyk(0, 36, 63, 44)",
+                "c": 0,
+                "m": 36,
+                "y": 63,
+                "k": 44
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3977996078431372,
+                    "Y": 0.3922619607843137,
+                    "Z": 0.25138352941176473
+                },
+                "value": "XYZ(40, 39, 25)",
+                "X": 40,
+                "Y": 39,
+                "Z": 25
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=8F5C35",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=8F5C35"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=8F5C35"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:33.606489",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#AA6533": {
+        "values": {
+            "hex": {
+                "value": "#AA6533",
+                "clean": "AA6533"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.6666666666666666,
+                    "g": 0.396078431372549,
+                    "b": 0.2
+                },
+                "r": 170,
+                "g": 101,
+                "b": 51,
+                "value": "rgb(170, 101, 51)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07002801120448177,
+                    "s": 0.5384615384615384,
+                    "l": 0.43333333333333335
+                },
+                "h": 25,
+                "s": 54,
+                "l": 43,
+                "value": "hsl(25, 54%, 43%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07002801120448177,
+                    "s": 0.7,
+                    "v": 0.6666666666666666
+                },
+                "value": "hsv(25, 70%, 67%)",
+                "h": 25,
+                "s": 70,
+                "v": 67
+            },
+            "name": {
+                "value": "Copper",
+                "closest_named_hex": "#B87333",
+                "exact_match_name": false,
+                "distance": 606
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.4058823529411765,
+                    "y": 0.7000000000000001,
+                    "k": 0.33333333333333337
+                },
+                "value": "cmyk(0, 41, 70, 33)",
+                "c": 0,
+                "m": 41,
+                "y": 70,
+                "k": 33
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.4526709803921568,
+                    "Y": 0.43944862745098034,
+                    "Z": 0.25017921568627455
+                },
+                "value": "XYZ(45, 44, 25)",
+                "X": 45,
+                "Y": 44,
+                "Z": 25
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=AA6533",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=AA6533"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=AA6533"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:33.912926",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#864F26": {
+        "values": {
+            "hex": {
+                "value": "#864F26",
+                "clean": "864F26"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5254901960784314,
+                    "g": 0.30980392156862746,
+                    "b": 0.14901960784313725
+                },
+                "r": 134,
+                "g": 79,
+                "b": 38,
+                "value": "rgb(134, 79, 38)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07118055555555547,
+                    "s": 0.5581395348837209,
+                    "l": 0.33725490196078434
+                },
+                "h": 26,
+                "s": 56,
+                "l": 34,
+                "value": "hsl(26, 56%, 34%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07118055555555547,
+                    "s": 0.7164179104477612,
+                    "v": 0.5254901960784314
+                },
+                "value": "hsv(26, 72%, 53%)",
+                "h": 26,
+                "s": 72,
+                "v": 53
+            },
+            "name": {
+                "value": "Bull Shot",
+                "closest_named_hex": "#864D1E",
+                "exact_match_name": false,
+                "distance": 824
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.41044776119402987,
+                    "y": 0.7164179104477612,
+                    "k": 0.4745098039215686
+                },
+                "value": "cmyk(0, 41, 72, 47)",
+                "c": 0,
+                "m": 41,
+                "y": 72,
+                "k": 47
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3543960784313726,
+                    "Y": 0.3440501960784314,
+                    "Z": 0.18871372549019608
+                },
+                "value": "XYZ(35, 34, 19)",
+                "X": 35,
+                "Y": 34,
+                "Z": 19
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=864F26",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=864F26"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=864F26"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:34.199703",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#895C26": {
+        "values": {
+            "hex": {
+                "value": "#895C26",
+                "clean": "895C26"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5372549019607843,
+                    "g": 0.3607843137254902,
+                    "b": 0.14901960784313725
+                },
+                "r": 137,
+                "g": 92,
+                "b": 38,
+                "value": "rgb(137, 92, 38)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.09090909090909083,
+                    "s": 0.5657142857142856,
+                    "l": 0.3431372549019608
+                },
+                "h": 33,
+                "s": 57,
+                "l": 34,
+                "value": "hsl(33, 57%, 34%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.09090909090909083,
+                    "s": 0.7226277372262773,
+                    "v": 0.5372549019607843
+                },
+                "value": "hsv(33, 72%, 54%)",
+                "h": 33,
+                "s": 72,
+                "v": 54
+            },
+            "name": {
+                "value": "Kumera",
+                "closest_named_hex": "#886221",
+                "exact_match_name": false,
+                "distance": 340
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3284671532846714,
+                    "y": 0.7226277372262773,
+                    "k": 0.4627450980392157
+                },
+                "value": "cmyk(0, 33, 72, 46)",
+                "c": 0,
+                "m": 33,
+                "y": 72,
+                "k": 46
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.37747843137254905,
+                    "Y": 0.38301254901960785,
+                    "Z": 0.19501764705882352
+                },
+                "value": "XYZ(38, 38, 20)",
+                "X": 38,
+                "Y": 38,
+                "Z": 20
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=895C26",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=895C26"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=895C26"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:34.507252",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#925B2D": {
+        "values": {
+            "hex": {
+                "value": "#925B2D",
+                "clean": "925B2D"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5725490196078431,
+                    "g": 0.3568627450980392,
+                    "b": 0.17647058823529413
+                },
+                "r": 146,
+                "g": 91,
+                "b": 45,
+                "value": "rgb(146, 91, 45)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07590759075907594,
+                    "s": 0.5287958115183246,
+                    "l": 0.37450980392156863
+                },
+                "h": 27,
+                "s": 53,
+                "l": 37,
+                "value": "hsl(27, 53%, 37%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07590759075907594,
+                    "s": 0.6917808219178081,
+                    "v": 0.5725490196078431
+                },
+                "value": "hsv(27, 69%, 57%)",
+                "h": 27,
+                "s": 69,
+                "v": 57
+            },
+            "name": {
+                "value": "Mule Fawn",
+                "closest_named_hex": "#8C472F",
+                "exact_match_name": false,
+                "distance": 738
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.37671232876712313,
+                    "y": 0.6917808219178081,
+                    "k": 0.4274509803921569
+                },
+                "value": "cmyk(0, 38, 69, 43)",
+                "c": 0,
+                "m": 38,
+                "y": 69,
+                "k": 43
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3955862745098039,
+                    "Y": 0.38969333333333334,
+                    "Z": 0.2213235294117647
+                },
+                "value": "XYZ(40, 39, 22)",
+                "X": 40,
+                "Y": 39,
+                "Z": 22
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=925B2D",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=925B2D"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=925B2D"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:34.805198",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#77421E": {
+        "values": {
+            "hex": {
+                "value": "#77421E",
+                "clean": "77421E"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.4666666666666667,
+                    "g": 0.25882352941176473,
+                    "b": 0.11764705882352941
+                },
+                "r": 119,
+                "g": 66,
+                "b": 30,
+                "value": "rgb(119, 66, 30)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.0674157303370786,
+                    "s": 0.5973154362416107,
+                    "l": 0.29215686274509806
+                },
+                "h": 24,
+                "s": 60,
+                "l": 29,
+                "value": "hsl(24, 60%, 29%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.0674157303370786,
+                    "s": 0.7478991596638654,
+                    "v": 0.4666666666666667
+                },
+                "value": "hsv(24, 75%, 47%)",
+                "h": 24,
+                "s": 75,
+                "v": 47
+            },
+            "name": {
+                "value": "Walnut",
+                "closest_named_hex": "#773F1A",
+                "exact_match_name": false,
+                "distance": 277
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.4453781512605043,
+                    "y": 0.7478991596638654,
+                    "k": 0.5333333333333333
+                },
+                "value": "cmyk(0, 45, 75, 53)",
+                "c": 0,
+                "m": 45,
+                "y": 75,
+                "k": 53
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.30624392156862745,
+                    "Y": 0.2928180392156863,
+                    "Z": 0.15168196078431373
+                },
+                "value": "XYZ(31, 29, 15)",
+                "X": 31,
+                "Y": 29,
+                "Z": 15
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=77421E",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=77421E"
+            },
+            "contrast": {
+                "value": "#FFFFFF"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=77421E"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:35.100850",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#724727": {
+        "values": {
+            "hex": {
+                "value": "#724727",
+                "clean": "724727"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.4470588235294118,
+                    "g": 0.2784313725490196,
+                    "b": 0.15294117647058825
+                },
+                "r": 114,
+                "g": 71,
+                "b": 39,
+                "value": "rgb(114, 71, 39)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07111111111111101,
+                    "s": 0.4901960784313725,
+                    "l": 0.30000000000000004
+                },
+                "h": 26,
+                "s": 49,
+                "l": 30,
+                "value": "hsl(26, 49%, 30%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07111111111111101,
+                    "s": 0.6578947368421052,
+                    "v": 0.4470588235294118
+                },
+                "value": "hsv(26, 66%, 45%)",
+                "h": 26,
+                "s": 66,
+                "v": 45
+            },
+            "name": {
+                "value": "Pickled Bean",
+                "closest_named_hex": "#6E4826",
+                "exact_match_name": false,
+                "distance": 34
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3771929824561403,
+                    "y": 0.6578947368421052,
+                    "k": 0.5529411764705883
+                },
+                "value": "cmyk(0, 38, 66, 55)",
+                "c": 0,
+                "m": 38,
+                "y": 66,
+                "k": 55
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.31154000000000004,
+                    "Y": 0.3052211764705882,
+                    "Z": 0.18718784313725492
+                },
+                "value": "XYZ(31, 31, 19)",
+                "X": 31,
+                "Y": 31,
+                "Z": 19
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=724727",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=724727"
+            },
+            "contrast": {
+                "value": "#FFFFFF"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=724727"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:35.482793",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#7E512D": {
+        "values": {
+            "hex": {
+                "value": "#7E512D",
+                "clean": "7E512D"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.49411764705882355,
+                    "g": 0.3176470588235294,
+                    "b": 0.17647058823529413
+                },
+                "r": 126,
+                "g": 81,
+                "b": 45,
+                "value": "rgb(126, 81, 45)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07407407407407407,
+                    "s": 0.4736842105263157,
+                    "l": 0.33529411764705885
+                },
+                "h": 27,
+                "s": 47,
+                "l": 34,
+                "value": "hsl(27, 47%, 34%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07407407407407407,
+                    "s": 0.6428571428571428,
+                    "v": 0.49411764705882355
+                },
+                "value": "hsv(27, 64%, 49%)",
+                "h": 27,
+                "s": 64,
+                "v": 49
+            },
+            "name": {
+                "value": "Nutmeg",
+                "closest_named_hex": "#81422C",
+                "exact_match_name": false,
+                "distance": 385
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3571428571428572,
+                    "y": 0.6428571428571428,
+                    "k": 0.5058823529411764
+                },
+                "value": "cmyk(0, 36, 64, 51)",
+                "c": 0,
+                "m": 36,
+                "y": 64,
+                "k": 51
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3492176470588235,
+                    "Y": 0.3449717647058823,
+                    "Z": 0.21513529411764706
+                },
+                "value": "XYZ(35, 34, 22)",
+                "X": 35,
+                "Y": 34,
+                "Z": 22
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=7E512D",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=7E512D"
+            },
+            "contrast": {
+                "value": "#FFFFFF"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=7E512D"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:35.804330",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#693D25": {
+        "values": {
+            "hex": {
+                "value": "#693D25",
+                "clean": "693D25"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.4117647058823529,
+                    "g": 0.23921568627450981,
+                    "b": 0.1450980392156863
+                },
+                "r": 105,
+                "g": 61,
+                "b": 37,
+                "value": "rgb(105, 61, 37)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.05882352941176461,
+                    "s": 0.4788732394366196,
+                    "l": 0.2784313725490196
+                },
+                "h": 21,
+                "s": 48,
+                "l": 28,
+                "value": "hsl(21, 48%, 28%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.05882352941176461,
+                    "s": 0.6476190476190475,
+                    "v": 0.4117647058823529
+                },
+                "value": "hsv(21, 65%, 41%)",
+                "h": 21,
+                "s": 65,
+                "v": 41
+            },
+            "name": {
+                "value": "Pickled Bean",
+                "closest_named_hex": "#6E4826",
+                "exact_match_name": false,
+                "distance": 223
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.41904761904761895,
+                    "y": 0.6476190476190475,
+                    "k": 0.5882352941176471
+                },
+                "value": "cmyk(0, 42, 65, 59)",
+                "c": 0,
+                "m": 42,
+                "y": 65,
+                "k": 59
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.2815454901960784,
+                    "Y": 0.26910431372549015,
+                    "Z": 0.1743772549019608
+                },
+                "value": "XYZ(28, 27, 17)",
+                "X": 28,
+                "Y": 27,
+                "Z": 17
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=693D25",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=693D25"
+            },
+            "contrast": {
+                "value": "#FFFFFF"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=693D25"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:36.212667",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#5E3617": {
+        "values": {
+            "hex": {
+                "value": "#5E3617",
+                "clean": "5E3617"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.3686274509803922,
+                    "g": 0.21176470588235294,
+                    "b": 0.09019607843137255
+                },
+                "r": 94,
+                "g": 54,
+                "b": 23,
+                "value": "rgb(94, 54, 23)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07276995305164313,
+                    "s": 0.6068376068376068,
+                    "l": 0.22941176470588237
+                },
+                "h": 26,
+                "s": 61,
+                "l": 23,
+                "value": "hsl(26, 61%, 23%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07276995305164313,
+                    "s": 0.7553191489361702,
+                    "v": 0.3686274509803922
+                },
+                "value": "hsv(26, 76%, 37%)",
+                "h": 26,
+                "s": 76,
+                "v": 37
+            },
+            "name": {
+                "value": "Jambalaya",
+                "closest_named_hex": "#5B3013",
+                "exact_match_name": false,
+                "distance": 369
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.42553191489361697,
+                    "y": 0.7553191489361702,
+                    "k": 0.6313725490196078
+                },
+                "value": "cmyk(0, 43, 76, 63)",
+                "c": 0,
+                "m": 43,
+                "y": 76,
+                "k": 63
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.2440294117647059,
+                    "Y": 0.2363364705882353,
+                    "Z": 0.11808823529411765
+                },
+                "value": "XYZ(24, 24, 12)",
+                "X": 24,
+                "Y": 24,
+                "Z": 12
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=5E3617",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=5E3617"
+            },
+            "contrast": {
+                "value": "#FFFFFF"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=5E3617"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:36.532117",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#FBDCBD": {
+        "values": {
+            "hex": {
+                "value": "#FBDCBD",
+                "clean": "FBDCBD"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.984313725490196,
+                    "g": 0.8627450980392157,
+                    "b": 0.7411764705882353
+                },
+                "r": 251,
+                "g": 220,
+                "b": 189,
+                "value": "rgb(251, 220, 189)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08333333333333348,
+                    "s": 0.8857142857142857,
+                    "l": 0.8627450980392157
+                },
+                "h": 30,
+                "s": 89,
+                "l": 86,
+                "value": "hsl(30, 89%, 86%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08333333333333348,
+                    "s": 0.24701195219123498,
+                    "v": 0.984313725490196
+                },
+                "value": "hsv(30, 25%, 98%)",
+                "h": 30,
+                "s": 25,
+                "v": 98
+            },
+            "name": {
+                "value": "Banana Mania",
+                "closest_named_hex": "#FAE7B5",
+                "exact_match_name": false,
+                "distance": 416
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.12350597609561743,
+                    "y": 0.24701195219123498,
+                    "k": 0.015686274509803977
+                },
+                "value": "cmyk(0, 12, 25, 2)",
+                "c": 0,
+                "m": 12,
+                "y": 25,
+                "k": 2
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.8482309803921567,
+                    "Y": 0.8798133333333332,
+                    "Z": 0.826324705882353
+                },
+                "value": "XYZ(85, 88, 83)",
+                "X": 85,
+                "Y": 88,
+                "Z": 83
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=FBDCBD",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=FBDCBD"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=FBDCBD"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:36.811005",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#D8BBA3": {
+        "values": {
+            "hex": {
+                "value": "#D8BBA3",
+                "clean": "D8BBA3"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.8470588235294118,
+                    "g": 0.7333333333333333,
+                    "b": 0.6392156862745098
+                },
+                "r": 216,
+                "g": 187,
+                "b": 163,
+                "value": "rgb(216, 187, 163)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.07547169811320764,
+                    "s": 0.40458015267175584,
+                    "l": 0.7431372549019608
+                },
+                "h": 27,
+                "s": 40,
+                "l": 74,
+                "value": "hsl(27, 40%, 74%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.07547169811320764,
+                    "s": 0.24537037037037043,
+                    "v": 0.8470588235294118
+                },
+                "value": "hsv(27, 25%, 85%)",
+                "h": 27,
+                "s": 25,
+                "v": 85
+            },
+            "name": {
+                "value": "Cameo",
+                "closest_named_hex": "#D9B99B",
+                "exact_match_name": false,
+                "distance": 331
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.1342592592592593,
+                    "y": 0.24537037037037043,
+                    "k": 0.15294117647058825
+                },
+                "value": "cmyk(0, 13, 25, 15)",
+                "c": 0,
+                "m": 13,
+                "y": 25,
+                "k": 15
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.7269454901960783,
+                    "Y": 0.7507160784313724,
+                    "Z": 0.7113360784313726
+                },
+                "value": "XYZ(73, 75, 71)",
+                "X": 73,
+                "Y": 75,
+                "Z": 71
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=D8BBA3",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=D8BBA3"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=D8BBA3"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:37.105215",
+        "expire_in_days": 30
+    },
+    "HTTP://THECOLORAPI.COM/ID?#804C14": {
+        "values": {
+            "hex": {
+                "value": "#804C14",
+                "clean": "804C14"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5019607843137255,
+                    "g": 0.2980392156862745,
+                    "b": 0.0784313725490196
+                },
+                "r": 128,
+                "g": 76,
+                "b": 20,
+                "value": "rgb(128, 76, 20)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.08641975308641969,
+                    "s": 0.7297297297297298,
+                    "l": 0.2901960784313725
+                },
+                "h": 31,
+                "s": 73,
+                "l": 29,
+                "value": "hsl(31, 73%, 29%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.08641975308641969,
+                    "s": 0.84375,
+                    "v": 0.5019607843137255
+                },
+                "value": "hsv(31, 84%, 50%)",
+                "h": 31,
+                "s": 84,
+                "v": 50
+            },
+            "name": {
+                "value": "Raw Umber",
+                "closest_named_hex": "#734A12",
+                "exact_match_name": false,
+                "distance": 285
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.4062499999999999,
+                    "y": 0.8437500000000001,
+                    "k": 0.4980392156862745
+                },
+                "value": "cmyk(0, 41, 84, 50)",
+                "c": 0,
+                "m": 41,
+                "y": 84,
+                "k": 50
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3277443137254902,
+                    "Y": 0.3255372549019608,
+                    "Z": 0.11976313725490195
+                },
+                "value": "XYZ(33, 33, 12)",
+                "X": 33,
+                "Y": 33,
+                "Z": 12
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=804C14",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=804C14"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=804C14"
+                }
+            },
+            "_embedded": {}
+        },
+        "timestamp": "2018-11-29 19:51:37.416058",
+        "expire_in_days": 30
+    }
+}
