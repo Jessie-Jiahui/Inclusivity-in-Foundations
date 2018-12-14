@@ -28,7 +28,7 @@ the data of historical shades set evolution of Estee Lauder Double Wear Foundati
 * Quit input by `exit`
 * Term explanation on input of `help`
   
-### Final project requirements meet: 
+#### Final project requirements meet: 
 * Three data sources used in total: color API, hex codes scraped from website, manually pullup shades changes in years
 * Caching in final_proj.py, with the code of alternative_advanced_caching.py
 * Process API data into a color class, saved hex codes into color class, shade changes data into a nested dictionary
