@@ -11,10 +11,8 @@ In this project, I:
 * Used Plot.ly to visualize the shades information in years on the canvas according to users' requirements.
 
 Here you can:
-*  get a list of all the national parks in a state by providing the state's abbreviation.
-*  plot all the national parks in the state you just indicate on a map.
-*  get a list of 20 nearby places around a certain national park by providing the sequence number of that site in the previous national parks list.
-*  plot those nearby places on a map.
+*  get a figure of all the shades information for the past five years.
+*  plot all the shade colors in a figure you just indicate on a the interactive interface.
 
 Below are some sample visualizations you will get:
 #### Shades Distribution of Estee Lauder Doublewear for All Years
