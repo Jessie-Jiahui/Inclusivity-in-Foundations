@@ -112,4 +112,4 @@ This command lists all available commands you can input right now.
 The introduction of the program and all instructions will appear again when you run the program so that you don't have to refer back and forth.
 
 
-#### Now you have grasped all the things you need to run this program! Feel free to explore it and see how makeup industry making more inclusive by adding more shades for yellow and black people!
+### Now you have grasped all the things you need to run this program! Feel free to explore it and see how makeup industry making more inclusive by adding more shades for yellow and black people!
