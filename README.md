@@ -1,8 +1,8 @@
 *Jiahui Zhou, University of Michigan, School of Information, UX Design & Research*
 
 # Project Overview
-It is a program to use data to validate an opinion "The Makeup Industry Is Now More Skin Shade–Inclusive Than Ever." I chose 
-the data of historical shades set evolution of Estee Lauder Double Wear Foundation, for both its largest color variations in current mainstream foundations and its constant name convention (otherwise, I am not able to scrape its previous color set on the webpage). 
+Inspired by the a reading "The Makeup Industry Is Now More Skin Shade–Inclusive Than Ever": https://www.shape.com/lifestyle/beauty-style/makeup-shade-inclusivity-evolution-beauty-industry, I chose 
+the data of of Estee Lauder Double Wear Foundation to validate its opnion. 
 
 In this project, I:
 * Researched and gathered information about a foundation which is able to has constant name convention and release information
